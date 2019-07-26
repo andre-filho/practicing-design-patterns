@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MiniDuckSimulator2019",
+      "request": "launch",
+      "mainClass": "strategy.MiniDuckSimulator2019",
+      "projectName": "desenho_492c5f49"
+    }
+  ]
+}
